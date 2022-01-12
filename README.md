@@ -108,4 +108,4 @@ Provide below command to initiate the User interface. New terminal will open wit
 
 ![image](https://user-images.githubusercontent.com/80065996/149180441-e3409d59-8988-4125-b316-6e8d6c0ff0a1.png)
 
-
+# press ctrl+c to come out
